@@ -7,5 +7,6 @@ public class TestGit {
         System.out.println("hello git ~3");
         System.out.println("hello world git ~4 master");
         System.out.println("push test");
+        System.out.println("dev modified push");
     }
 }
